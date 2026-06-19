@@ -126,11 +126,9 @@ Blinkit-Sales-Dashboard/
 
 ##  Author
 
-**Srilakshmanan.M**
+**Srilakshmanan M**
 
 Data Analyst | Power BI Developer
 
 
----
 
-⭐ If you found this project helpful, feel free to star the repository.
