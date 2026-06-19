@@ -1,6 +1,6 @@
-# 🚀 Blinkit Sales & Delivery Performance Analytics Dashboard
+# Blinkit Sales & Delivery Performance Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The Blinkit Sales Dashboard is an end-to-end Business Intelligence solution developed using Power BI to analyze and visualize sales performance, delivery efficiency, revenue trends, and key business metrics.
 
@@ -8,7 +8,7 @@ The dashboard processes over 50,000 order records and transforms raw data into a
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze sales and revenue performance across different product categories.
 - Monitor delivery efficiency and fulfillment metrics.
@@ -19,7 +19,7 @@ The dashboard processes over 50,000 order records and transforms raw data into a
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - Total Revenue
 - Total Orders
@@ -33,7 +33,7 @@ The dashboard processes over 50,000 order records and transforms raw data into a
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Revenue Analysis
 - Analyzed 50,000+ order records to identify revenue trends and sales performance.
@@ -53,7 +53,7 @@ The dashboard processes over 50,000 order records and transforms raw data into a
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
@@ -62,7 +62,7 @@ The dashboard processes over 50,000 order records and transforms raw data into a
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 - Interactive Filters and Slicers
 - Revenue Trend Analysis
@@ -74,7 +74,7 @@ The dashboard processes over 50,000 order records and transforms raw data into a
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 Add dashboard screenshots here.
 
@@ -86,7 +86,7 @@ Add dashboard screenshots here.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Blinkit-Sales-Dashboard/
@@ -105,7 +105,7 @@ Blinkit-Sales-Dashboard/
 
 ---
 
-## 🚀 Business Impact
+##  Business Impact
 
 - Built a centralized analytics dashboard for sales and delivery performance monitoring.
 - Identified revenue-generating product categories contributing 65% of total revenue.
@@ -114,7 +114,7 @@ Blinkit-Sales-Dashboard/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Customer Segmentation Analysis
 - Sales Forecasting using Predictive Models
@@ -124,9 +124,9 @@ Blinkit-Sales-Dashboard/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**
+**Srilakshmanan.M**
 
 Data Analyst | Power BI Developer
 
